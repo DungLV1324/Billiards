@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Bi_a</string>
+    <string name="i_t_c_ng_tin_c_y">Đối Tác đáng tin cậy</string>
+    <string name="partner">partner</string>
+    <string name="biz_mbbank">Biz MBBank</string>
+    <string name="t_n_ng_nh_p">Tên đăng nhập</string>
+    <string name="m_t_i_kho_n_s_p">MỞ TÀI KHOẢN SỐ ĐẸP</string>
+    <string name="qu_n_m_t_kh_u">QUÊN MẬT KHẨU ?</string>
+    <string name="ng_nh_p">ĐĂNG NHẬP</string>
+    <string name="m_t_kh_u">Mật khẩu</string>
 </resources>
