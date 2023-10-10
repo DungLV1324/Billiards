@@ -68,7 +68,7 @@
             android:drawableEnd="@drawable/f2"
             android:hint="@string/m_t_kh_u"
             android:password="true"
-            android:textColorHint="@color/black"
+            android:textColorHint="#64000000"
             app:layout_constraintLeft_toLeftOf="@id/tv_name"
             app:layout_constraintRight_toRightOf="@id/tv_name"
             app:layout_constraintTop_toBottomOf="@id/ed_tk" />
@@ -80,7 +80,7 @@
             android:layout_marginHorizontal="20dp"
             android:layout_marginTop="50dp"
             android:hint="@string/t_n_ng_nh_p"
-            android:textColorHint="@color/black"
+            android:textColorHint="#64000000"
             app:layout_constraintLeft_toLeftOf="@id/tv_name"
             app:layout_constraintRight_toRightOf="@id/tv_name"
             app:layout_constraintTop_toBottomOf="@id/tv_name" />
